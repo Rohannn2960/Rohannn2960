@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Rohan 👋  
 
-<!--
-**Rohannn2960/Rohannn2960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student  
+💻 Problem Solver | Tech Explorer  
 
-Here are some ideas to get you started:
+I’m passionate about building solutions and exploring different areas of technology, especially web development and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+- Kissan Sethu  
+- Sentiment Disinfo Tracker  
+- Relief Connect  
+- Weather Report System  
+
+---
+
+## ⚡ Skills
+- Data Structures & Algorithms  
+- MySQL  
+- Web Development (Learning)  
+
+---
+
+## 🎯 Goal
+To become a versatile developer with strong problem-solving skills and adapt across different technologies  
+
+---
+
+“Code. Explore. Improve.”
