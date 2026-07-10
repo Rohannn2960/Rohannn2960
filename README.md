@@ -11,18 +11,52 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rohan-tammana-906132315"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="https://github.com/roh29-cyber"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-<a href="https://roh29-cyber.github.io/Rohan-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohan-tammana-906132315" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://github.com/roh29-cyber" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  <a href="https://roh29-cyber.github.io/Rohan-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:rohantammana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Rohan_Tammana/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/rohantammana" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
+
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,vite"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vite"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### 💡 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
@@ -38,30 +72,19 @@
 
 ## 🚀 Featured Projects
 
-* 🌾 Kisaan Setu
-* 🤖 Sentiment Disinfo Tracker
-* 🌍 Relief Connect
-* 🌦 Weather Report System
-* 📚 StudyMatePlus
+* 🌾 **Kisaan Setu** – Smart agriculture platform for Smart India Hackathon
+* 🤖 **Sentiment Disinfo Tracker** – AI-powered misinformation detection system
+* 🌍 **Relief Connect** – Disaster relief coordination platform
+* 🌦️ **Weather Report System** – Java desktop application
 
 ---
 
 ## 🏆 Achievements
 
-* ⭐ GirlScript Summer of Code 2026 Contributor
+* ⭐ GirlScript Summer of Code (GSSoC) 2026 Contributor
 * 💡 Hackathon Participant
 * 🧩 Active DSA Learner
-* 🌱 Passionate Open Source Contributor
-
----
-
-## 📊 GitHub Stats
-
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roh29-cyber\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roh29-cyber\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=roh29-cyber\&theme=tokyonight)
+* 🚀 Passionate about building impactful software
 
 ---
 
