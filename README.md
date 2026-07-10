@@ -38,7 +38,7 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,vite"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
 </p>
 
 ### ⚙️ Backend
