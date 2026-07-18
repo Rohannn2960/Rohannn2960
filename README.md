@@ -17,7 +17,7 @@
   <a href="https://github.com/roh29-cyber" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="https://roh29-cyber.github.io/Rohan-Portfolio/" target="_blank">
+  <a href="https://rohannn2960.github.io/profile-using-bootstrap/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:rohantammana@gmail.com">
